@@ -21,6 +21,8 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="Sqlite" width="40" height="40"/> </a> 
  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/439290/react.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="vite" width="40" height="40"/> </a> 
+<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" alt="render" width="40" height="40"/> </a> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a> 
 
 </p>
 
