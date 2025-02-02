@@ -1,4 +1,4 @@
- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Raiden;Self+taught+Python+Backend+Developer+!!)
+ # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=0000FF&lines=Hi+there+%F0%9F%91%8B+This+is+Raiden;Self+taught+Python+Backend+Developer+!!)
 
 <h3 align="left">I'm a Python developer from India. I build applications/API's in Django You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Django.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
