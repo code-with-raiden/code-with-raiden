@@ -61,3 +61,21 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=code-with-raiden&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-raiden&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg" alt="Snake animation" />
+
+![GitHub Snake](https://github.com/code-with-raiden/code-with-raiden/raw/output/github-snake.svg)
+
+###
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kfoxz66in5wzezzirafwhurmra&count=1)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kfoxz66in5wzezzirafwhurmra)](https://open.spotify.com/user/jeffreyca16)
