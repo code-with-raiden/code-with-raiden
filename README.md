@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg)
 
 ![GitHub Snake](https://github.com/code-with-raiden/code-with-raiden/raw/output/github-snake.svg)
 
