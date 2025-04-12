@@ -2,6 +2,9 @@
 
 <h3 align="left">I'm a Python developer from India. I build applications/API's in Django You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Django.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
+<h3  align="left">  “Yeah, I code — but I make it mine.”</h3>
+ <h3  align="left"> You’re building things with a creative flair, not just copying tutorials. </h3>
+
 - 🔭 I’m currently working as Associate Software Engineer
 - 👯 I’m looking to collaborate on Backend Projects
 - 📫 How to reach me **sagarreddy6066@gmail.com**
