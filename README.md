@@ -49,6 +49,7 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=12598&format=png" alt="github" width="40" height="40"/> </a>
 <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" alt="render" width="40" height="40"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a> 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="streamlit" width="40" height="40"/> </a> 
 
 
 
