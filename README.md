@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Associate Software Engineer
 - 👯 I’m looking to collaborate on Backend Projects
-- 📫 How to reach me **sagarreddy6066@gmail.com**
+- 📫 How to reach me **raiden.sagar6066@gmail.com**
 
 <p align="left">
 </p>
