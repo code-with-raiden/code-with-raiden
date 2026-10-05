@@ -1,0 +1,38 @@
+name: Generate Activity Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: code-with-raiden
+          theme: react
+          area: true
+          area_color: auto
+          radius: 16
+          order: 5
+
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git diff --cached --quiet || git commit -m "Update activity graph"
+
+          git push
