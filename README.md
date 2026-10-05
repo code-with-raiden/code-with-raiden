@@ -88,9 +88,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-raiden&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-with-raiden&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](./.github/trophy.svg)
+
 ---
-
-
