@@ -13,10 +13,14 @@ jobs:
     runs-on: ubuntu-24.04
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: code-with-raiden
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
