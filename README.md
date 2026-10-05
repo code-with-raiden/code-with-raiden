@@ -77,7 +77,7 @@
 </p> -->
 
 ![Snake animation](https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31kfoxz66in5wzezzirafwhurmra&count=1)
+
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-raiden&" alt="code-with-raiden" /></p>
@@ -93,12 +93,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=code-with-raiden&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-
-###
-
-
-###
-
-
-###
 
