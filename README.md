@@ -85,7 +85,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-raiden&show_icons=true&locale=en" alt="code-with-raiden" /></p>
 <div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-raiden&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/activity-graph.svg" height="300" alt="activity-graph graph" />
 </div>
 
 ## 🏆 GitHub Trophies
