@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: code-with-raiden
           github_token: ${{ secrets.GITHUB_TOKEN }}
