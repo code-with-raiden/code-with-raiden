@@ -10,14 +10,11 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: code-with-raiden
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -25,10 +22,10 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          branch: output
-          folder: dist
-          clean: false
-          token: ${{ secrets.GITHUB_TOKEN }}
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
