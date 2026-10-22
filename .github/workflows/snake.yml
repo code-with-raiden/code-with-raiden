@@ -3,17 +3,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Run daily at 00:00 UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
+
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -21,15 +20,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Snake SVGs
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: code-with-raiden
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
+      - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
