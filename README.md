@@ -77,7 +77,6 @@
 </p> -->
 
 ![Snake animation](https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg)
-
 # 📊 GitHub Stats:
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-raiden&" alt="code-with-raiden" /></p>
