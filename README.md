@@ -28,32 +28,8 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a> 
 
 </p> -->
-<h3 align="left">Languages and Tools:</h3>
-
-<table>
-<tr>
-<td><img src="https://www.svgrepo.com/show/452091/python.svg" width="200"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="100"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="100"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/508915/flask.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/439290/react.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/374167/vite.svg" width="100"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="100"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="100"/></td>
-<td><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="100"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100"/></td>
-<td><img src="https://img.icons8.com/?size=256&id=12598&format=png" width="100"/></td>
-<td><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" width="100"/></td>
-<td><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="100"/></td>
-<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" width="100"/></td>
-</tr>
-</table>
-<!-- <h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+ <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> </a>  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -74,7 +50,7 @@
 <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" alt="render" width="40" height="40"/> </a> 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a> 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" alt="streamlit" width="40" height="40"/> </a> 
-</p> -->
+</p> 
 
 ![Snake animation](https://raw.githubusercontent.com/code-with-raiden/code-with-raiden/output/snake.svg)
 # 📊 GitHub Stats:
